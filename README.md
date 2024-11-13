@@ -54,7 +54,7 @@ docker compose -f docker-compose.production.yml exec backend python manage.py cr
 ```
 
 ## Документация
-**Файл с документацией из schema.yaml можно посмотреть на [сайте]((https://editor.swagger.io/)).**
+**Файл с документацией из schema.yaml можно посмотреть на [сайте](https://editor.swagger.io/)**
 
 
 
