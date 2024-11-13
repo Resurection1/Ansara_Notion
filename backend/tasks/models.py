@@ -43,7 +43,8 @@ class Task(models.Model):
     responsible = models.ForeignKey(
         User,
         related_name='responsible_tasks',
-        on_delete=models.CASCADE
+        on_delete=models.CASCADE,
+        verbose_name='Проверяющий',
     )
     team = models.ForeignKey(
         Team,
