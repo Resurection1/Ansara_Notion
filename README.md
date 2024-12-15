@@ -15,7 +15,7 @@ admin - password
 ### Развернуть проект на удаленном сервере:
 **Клонировать репозиторий:**
 ```
-git clon https://github.com/Resurection1/Ansara_Notion.git
+git clone https://github.com/Resurection1/Ansara_Notion.git
 ```
 
 **_В общей директории файл .env.example переименовать в .env и заполнить своими данными:_**
